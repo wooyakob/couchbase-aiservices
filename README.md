@@ -212,4 +212,4 @@ Couchbase AI Services integrates with a rich ecosystem, including:
 - Blog – Capella AI Services: build enterprise‑grade agents: https://www.couchbase.com/blog/capellaaiservicesbuildenterprisegradeagents/
 - Press release – Couchbase AI Services put enterprises in control of agentic AI: https://www.couchbase.com/pressreleases/couchbaseaiservicesputenterprisesincontrolofagenticai/
 - Documentation – Products AI Services:  
-https://www.couchbase.com/products/aiservices/
+https://www.couchbase.com/products/ai-services/
